@@ -3,5 +3,3 @@
 #EXTINF:-1 tvg-id="nasa" group-title="Science",NASA TV
 https://example.com/nasa-live.m3u8
 
-#EXTINF:-1 tvg-id="espn" group-title="Sports Networks",ESPN
-https://example.com/authorized-espn-stream.m3u8
